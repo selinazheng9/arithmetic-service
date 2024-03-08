@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../numbers-app"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../ciphers-service"
+		},
+		{
+			"path": "../../../numbers-app-docker-compose"
+		},
+		{
+			"path": "../../../azure-storage-service"
+		},
+		{
+			"path": "../../../quotation-service"
+		}
+	],
+	"settings": {}
+}
